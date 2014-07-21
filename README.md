@@ -4,7 +4,7 @@ First experiments with Clojure to learn the language.
 
 Started after reading the excelent [Clojure for the Brave and True](http://www.braveclojure.com).
 
-## Experiements
+## Experiments
 
 ### [Mustache-like String Interpolation Macro](src/clojure_experiments/interpolate.clj)
 
