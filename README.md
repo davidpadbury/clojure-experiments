@@ -19,10 +19,3 @@ Started after reading the excelent [Clojure for the Brave and True](http://www.b
     (let [name "David" age 29]
       (is (= "Hi David, you're 29" (interpolate "Hi {{name}}, you're {{age}}"))))))
 ```
-
-## License
-
-Copyright © 2014 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
